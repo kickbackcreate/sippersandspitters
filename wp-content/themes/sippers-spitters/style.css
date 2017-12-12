@@ -1,0 +1,81 @@
+/*
+Theme Name: Sippers &amp; Spitters
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+/*
+colours:
+Green: 9bcb40
+Red: 941d22
+Grey: 727578
+
+*/
+
+.social-icons .icon {
+    border-color: #9bcb40 !important;
+    color: #9bcb40 !important;
+}
+.footer-contact-img {
+    max-width: 50px;
+    max-height: 50px;
+}
+
+
+
+/**menu bar font colour **/
+.nav-top-link, .account-link, .account-login, .woocommerce-MyAccount-navigation-link a, .wishlist-account-element a  {
+    color:#000!important
+}
+
+/**my account dropdown arrow & close cross **/
+.icon-angle-down, .mfp-close{
+   color: #000!important;
+}
+
+/*remove breadcrumbs from shop*/
+.breadcrumbs{
+    display: none;
+}
+
+/*remove paypal button from checkout cart dropdown in header*/
+.wcppec-cart-widget-button {
+    display: none;
+}
+
+/*make drop down cart from header hacve min height*/
+.mini_cart_item{
+    min-height: 100px !important;
+}
+
+/* .woocommerce-MyAccount-navigation-link .woocommerce-MyAccount-navigation-link--orders:hover{
+    background-color: red;
+} */
+
+/*remove category name from product on shop page*/
+.op-7{
+    display: none !important;
+}
+
+/*change hover colour on account links*/
+.woocommerce-MyAccount-navigation-link a:hover, .wishlist-account-element a:hover{
+	background-color: #9acd32;
+}
+
+/*padding round nav on account*/
+.nav-dropdown.nav-dropdown-default>li>a,.nav > li > a{
+	padding: 5px;
+}
+
+/*make recently viewed products fit the images*/
+ul.product_list_widget li {
+    padding: 20px 30px 5px 75px !important;
+}
+
+@media only screen and (max-width: 48em) {
+	/*************** ADD MOBILE ONLY CSS HERE  ***************/
+}

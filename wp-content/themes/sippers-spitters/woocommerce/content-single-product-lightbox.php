@@ -13,6 +13,7 @@ do_action('wc_quick_view_before_single_product');
 ?>
 
 <div class="product-quick-view-container">
+
 <div class="row row-collapse mb-0" id="product-<?php the_ID(); ?>" <?php post_class(); ?>>
 
   <div class="product-gallery large-6 col">
@@ -65,7 +66,14 @@ do_action('wc_quick_view_before_single_product');
 
   <div class="product-info summary large-6  col entry-summary" style="font-size:90%;">
     <div class="product-lightbox-inner" style="padding: 30px;">
-    <a class="plain" href="<?php echo the_permalink();?>"><h1><?php the_title(); ?></h1></a>
+    <a class="plain" href="<?php echo the_permalink();?>"><h1><?php echo get_post_meta( $post->ID, '_subtitle2', true ) ?></h1></a>
+
+        <!--show the new subtitle field-->
+        <?php
+        global $post;
+        echo "<h2>" . get_post_meta( $post->ID, '_subtitle', true ) . "</h2>";
+        ?>
+
     <div class="is-divider small"></div>
 
     <?php

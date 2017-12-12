@@ -13,7 +13,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 ?>
 <h1 class="product-title entry-title">
-	<?php the_title(); ?>
+    <?php global $post; echo get_post_meta( $post->ID, '_subtitle2', true ) ?>
 </h1>
 
 <!--show the new subtitle field-->

@@ -79,3 +79,10 @@ ul.product_list_widget li {
 @media only screen and (max-width: 48em) {
 	/*************** ADD MOBILE ONLY CSS HERE  ***************/
 }
+
+
+
+.quickAddShop {
+	text-align: center;
+	font-size: 12px;
+}

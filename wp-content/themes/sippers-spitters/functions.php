@@ -154,6 +154,6 @@ add_filter('woocommerce_product_add_to_cart_text', 'wh_archive_custom_cart_butto
 
 function wh_archive_custom_cart_button_text()
 {
-    return __('Quick Add', 'woocommerce');
+    return __('Add To Basket', 'woocommerce');
 }
 

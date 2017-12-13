@@ -97,6 +97,8 @@ if ( ! defined( 'ABSPATH' ) ) {
 				</ul>
 
 				<div class="clear"></div>
+
+
 			</div>
 		</div>
 
@@ -106,6 +108,13 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 		<p class="woocommerce-notice woocommerce-notice--success woocommerce-thankyou-order-received"><?php echo apply_filters( 'woocommerce_thankyou_order_received_text', __( 'Thank you. Your order has been received.', 'woocommerce' ), null ); ?></p>
 
+
 	<?php endif; ?>
+    <div class="large-5 col">
+        <a href="https://localhost/sippers-spitters/shop/" target="_self" class="button primary">
+            <span>Back To Shop</span>
+        </a>
+    </div>
+
 
 </div>

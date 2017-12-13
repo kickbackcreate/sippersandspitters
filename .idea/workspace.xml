@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="306fdb7c-1f1d-4c14-8a4a-c8e3f952f6d0" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/loop/breadcrumbs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/loop/filter-button.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/loop/loop-end.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/loop/loop-start.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/loop/orderby.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/loop/pagination.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/loop/result-count.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/loop/sale-flash.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/flatsome/inc/shortcodes/ux_products.php" afterPath="$PROJECT_DIR$/wp-content/themes/flatsome/inc/shortcodes/ux_products.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/sippers-spitters/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/sippers-spitters/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/sippers-spitters/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/sippers-spitters/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/content-product-flipbook.php" afterPath="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/content-product-flipbook.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/content-single-product-lightbox.php" afterPath="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/content-single-product-lightbox.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/single-product/title.php" afterPath="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/single-product/title.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/checkout/thankyou.php" afterPath="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/checkout/thankyou.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/wflogs/config.php" afterPath="$PROJECT_DIR$/wp-content/wflogs/config.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,11 +17,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="633">
-              <caret line="102" column="48" lean-forward="false" selection-start-line="102" selection-start-column="48" selection-end-line="102" selection-end-column="48" />
+            <state relative-caret-position="696">
+              <caret line="156" column="28" lean-forward="false" selection-start-line="156" selection-start-column="28" selection-end-line="156" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thankyou.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/checkout/thankyou.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="118" column="0" lean-forward="true" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ux_products.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/flatsome/inc/shortcodes/ux_products.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="285" column="83" lean-forward="false" selection-start-line="285" selection-start-column="83" selection-end-line="285" selection-end-column="83" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ux_products.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/inc/shortcodes/ux_products.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="197" lean-forward="false" selection-start-line="1" selection-start-column="197" selection-end-line="1" selection-end-column="197" />
               <folding />
             </state>
           </provider>
@@ -47,38 +67,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="add-to-cart.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/loop/add-to-cart.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding>
-                <element signature="e#6#649#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content-single-product-lightbox.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/content-single-product-lightbox.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-              <folding>
-                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="structure-wc-product-box.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/flatsome/inc/woocommerce/structure-wc-product-box.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1080">
-              <caret line="77" column="82" lean-forward="false" selection-start-line="77" selection-start-column="82" selection-end-line="77" selection-end-column="82" />
+            <state relative-caret-position="199">
+              <caret line="66" column="4" lean-forward="false" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
               <folding>
-                <marker date="1513072440453" expanded="true" signature="4974:4981" ph="..." />
-                <marker date="1513072440453" expanded="true" signature="4982:5083" ph="..." />
+                <marker date="1513102934471" expanded="true" signature="4974:4981" ph="..." />
+                <marker date="1513102934471" expanded="true" signature="4982:5083" ph="..." />
               </folding>
             </state>
           </provider>
@@ -87,8 +83,38 @@
       <file leaf-file-name="content-product.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/content-product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+            <state relative-caret-position="521">
+              <caret line="72" column="49" lean-forward="false" selection-start-line="72" selection-start-column="49" selection-end-line="72" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product-image.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/single-product/product-image.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="885">
+              <caret line="74" column="8" lean-forward="false" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tabs.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/single-product/tabs/tabs.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="38" column="35" lean-forward="false" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/single-product/layouts/product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="61" lean-forward="false" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -98,21 +124,16 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>attachment-shop_thumbnail</find>
       <find>ul.product_list_widget li img</find>
       <find>box-text-products</find>
-      <find>product-small</find>
       <find>product-cat</find>
       <find>box-text</find>
       <find>latsome_woocommerce_shop_loop_category</find>
       <find>this is a test</find>
-      <find>product-title</find>
       <find>html_shop_page_content</find>
       <find>flatsome_woocommerce_shop_loop_category</find>
-      <find>woocommerce_shop_loop_item_title</find>
       <find>c</find>
       <find>test</find>
-      <find>woocommerce_template_loop_product_title</find>
       <find>mfp-content</find>
       <find>subtitle</find>
       <find>single_add_to_cart_button</find>
@@ -122,25 +143,33 @@
       <find>the_title</find>
       <find>Recently Viewed</find>
       <find>&lt;!--show the new subtitle field--&gt;</find>
-      <find>_subtitle</find>
+      <find>title-wrapper</find>
+      <find>attachment-large</find>
+      <find>product-grid-610305149</find>
+      <find>product-small</find>
       <find>title</find>
+      <find>product-title</find>
       <find>the_tit</find>
+      <find>_subtitle</find>
+      <find>woocommerce_shop_loop_item_title</find>
+      <find>order-received</find>
+      <find>woocommerce_template_loop_product_title</find>
     </findStrings>
     <replaceStrings>
       <replace>wineName</replace>
       <replace>_wineName</replace>
     </replaceStrings>
     <dirStrings>
-      <dir>$PROJECT_DIR$/wp-content/plugins/woocommerce</dir>
       <dir>$PROJECT_DIR$/wp-content/plugins/woocommerce/templates</dir>
       <dir>$PROJECT_DIR$/wp-content/themes/flatsome/woocommerce</dir>
       <dir>$PROJECT_DIR$/wp-content/themes/sippers-spitters/inc</dir>
       <dir>$PROJECT_DIR$/wp-content</dir>
-      <dir>$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/single-product</dir>
       <dir>$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce</dir>
-      <dir>$PROJECT_DIR$/wp-content/themes/flatsome</dir>
+      <dir>$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/single-product</dir>
       <dir>$PROJECT_DIR$</dir>
       <dir>$PROJECT_DIR$/wp-content/themes/sippers-spitters</dir>
+      <dir>$PROJECT_DIR$/wp-content/themes/flatsome</dir>
+      <dir>$PROJECT_DIR$/wp-content/plugins/woocommerce</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -155,16 +184,23 @@
         <option value="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/templates/single-product.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/archive-product.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/includes/wc-template-hooks.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/sippers-spitters/inc/woocommerce/structure-wc-product-box.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/flatsome/inc/woocommerce/structure-wc-product-box.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/content-product.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/loop/add-to-cart.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/single-product.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/content-product-flipbook.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/content-single-product-lightbox.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/content-single-product.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/single-product/title.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/single-product/product-image.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/single-product/w2-product-image-vertical.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/single-product/layouts/product.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/flatsome/woocommerce/content-product.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sippers-spitters/inc/woocommerce/structure-wc-product-box.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/flatsome/inc/woocommerce/structure-wc-product-box.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/content-product.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/flatsome/inc/shortcodes/ux_products.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sippers-spitters/inc/shortcodes/ux_products.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/sippers-spitters/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/checkout/thankyou.php" />
       </list>
     </option>
   </component>
@@ -175,11 +211,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1916" />
-    <option name="y" value="-67" />
-    <option name="width" value="1884" />
-    <option name="height" value="1041" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="985" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -198,7 +233,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,6 +249,12 @@
               <item name="sippers-spitters" type="b2602c69:ProjectViewProjectNode" />
               <item name="sippers-spitters" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="sippers-spitters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sippers-spitters" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -239,21 +279,13 @@
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="sippers-spitters" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="woocommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="loop" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="sippers-spitters" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sippers-spitters" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sippers-spitters" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="woocommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="single-product" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="checkout" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -304,28 +336,30 @@
       <workItem from="1513071833346" duration="1629000" />
       <workItem from="1513075552091" duration="1408000" />
       <workItem from="1513077884760" duration="981000" />
-      <workItem from="1513080049954" duration="8485000" />
+      <workItem from="1513080049954" duration="11253000" />
+      <workItem from="1513102338535" duration="3702000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32534000" />
+    <option name="totallyTimeSpent" value="39004000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1916" y="-67" width="1884" height="1041" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="985" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22258414" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25274727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -364,74 +398,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/single-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/single-product/title.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="22" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/archive-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/inc/woocommerce/structure-wc-product-box.php" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/content-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/flatsome/inc/woocommerce/structure-wc-product-box.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="77" column="87" lean-forward="false" selection-start-line="77" selection-start-column="87" selection-end-line="77" selection-end-column="87" />
-          <folding>
-            <marker date="1513072440453" expanded="true" signature="4974:4981" ph="..." />
-            <marker date="1513072440453" expanded="true" signature="4982:5083" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/single-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/single-product/title.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="22" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/archive-product.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -453,8 +419,8 @@
         <state relative-caret-position="1620">
           <caret line="113" column="57" lean-forward="false" selection-start-line="113" selection-start-column="25" selection-end-line="113" selection-end-column="57" />
           <folding>
-            <marker date="1513072440453" expanded="true" signature="4974:4981" ph="..." />
-            <marker date="1513072440453" expanded="true" signature="4982:5083" ph="..." />
+            <marker date="1513102934471" expanded="true" signature="4974:4981" ph="..." />
+            <marker date="1513102934471" expanded="true" signature="4982:5083" ph="..." />
           </folding>
         </state>
       </provider>
@@ -593,13 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/flatsome/woocommerce/content-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="69" column="28" lean-forward="true" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="740">
@@ -615,13 +574,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/templates/single-product.php" />
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-hooks.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="87" column="50" lean-forward="true" selection-start-line="87" selection-start-column="50" selection-end-line="87" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/archive-product.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -631,23 +583,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/includes/wc-template-hooks.php" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/inc/woocommerce/structure-wc-product-box.php" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/flatsome/inc/woocommerce/structure-wc-product-box.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="77" column="82" lean-forward="false" selection-start-line="77" selection-start-column="82" selection-end-line="77" selection-end-column="82" />
-          <folding>
-            <marker date="1513072440453" expanded="true" signature="4974:4981" ph="..." />
-            <marker date="1513072440453" expanded="true" signature="4982:5083" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/single-product/related.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -681,7 +620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-648">
           <caret line="15" column="51" lean-forward="true" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -689,10 +627,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="717" column="0" lean-forward="false" selection-start-line="717" selection-start-column="0" selection-end-line="745" selection-end-column="1" />
-          <folding>
-            <marker date="1513026064446" expanded="true" signature="46757:46835" ph="SELECT term_... $" />
-            <marker date="1513026064446" expanded="true" signature="58119:58132" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -704,10 +639,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/content-product.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/single-product/product-image.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        <state relative-caret-position="885">
+          <caret line="74" column="8" lean-forward="false" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/single-product/tabs/tabs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="38" column="35" lean-forward="false" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/single-product/w2-product-image-vertical.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="33" column="37" lean-forward="false" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/single-product/layouts/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="61" lean-forward="false" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/flatsome/woocommerce/content-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="69" column="64" lean-forward="true" selection-start-line="69" selection-start-column="64" selection-end-line="69" selection-end-column="64" />
           <folding />
         </state>
       </provider>
@@ -730,10 +697,85 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/loop/add-to-cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/inc/woocommerce/structure-wc-product-box.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="77" column="86" lean-forward="false" selection-start-line="77" selection-start-column="86" selection-end-line="77" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/content-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="72" column="49" lean-forward="false" selection-start-line="72" selection-start-column="49" selection-end-line="72" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-hooks.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="96" column="96" lean-forward="true" selection-start-line="96" selection-start-column="96" selection-end-line="96" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/flatsome/inc/woocommerce/structure-wc-product-box.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="66" column="4" lean-forward="false" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
+          <folding>
+            <marker date="1513102934471" expanded="true" signature="4974:4981" ph="..." />
+            <marker date="1513102934471" expanded="true" signature="4982:5083" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/inc/shortcodes/ux_products.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="197" lean-forward="false" selection-start-line="1" selection-start-column="197" selection-end-line="1" selection-end-column="197" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/flatsome/inc/shortcodes/ux_products.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="285" column="83" lean-forward="false" selection-start-line="285" selection-start-column="83" selection-end-line="285" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/checkout/thankyou.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="633">
-          <caret line="102" column="48" lean-forward="false" selection-start-line="102" selection-start-column="48" selection-end-line="102" selection-end-column="48" />
+        <state relative-caret-position="696">
+          <caret line="156" column="28" lean-forward="false" selection-start-line="156" selection-start-column="28" selection-end-line="156" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sippers-spitters/woocommerce/checkout/thankyou.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="118" column="0" lean-forward="true" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
           <folding />
         </state>
       </provider>

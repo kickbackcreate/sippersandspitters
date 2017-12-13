@@ -282,7 +282,8 @@ function ux_products($atts, $content = null, $tag) {
 									do_action( 'woocommerce_before_shop_loop_item_title' );
 
 									echo '<div class="title-wrapper">';
-									do_action( 'woocommerce_shop_loop_item_title' );
+                                //added woocommerce_shop_loop_item_title_SS to align brand and product name
+                                do_action( 'woocommerce_shop_loop_item_title_SS' );
 									echo '</div>';
 
 									echo '<div class="price-wrapper">';
